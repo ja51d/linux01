@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>a4e8ec629a520b2ef8c8865a1b075bbf.jpg</file>
+        <file>ayrılj.png</file>
+        <file>background1.jpg</file>
+        <file>başlatj.png</file>
+        <file>d268f0f05fdb3ded384bc409d08bf1f2.jpg</file>
+        <file>da238529cca5fd3b961e3843ce62880f.jpg</file>
+        <file>durdurj.png</file>
+        <file>emergency-alarm-with-reverb-29431.mp3</file>
+        <file>filtrelej.png</file>
+        <file>green.png</file>
+        <file>itutayf0.png</file>
+        <file>itutayf1.png</file>
+        <file>kop.jpg</file>
+        <file>oie_1SZ5qFRcqEV6.jpg</file>
+        <file>red.png</file>
+        <file>skinn.jpeg</file>
+        <file>TayfLogo.jpg</file>
+        <file>uuuy.png</file>
+        <file>mapnew.qml</file>
+        <file>model_cansat.qml</file>
+    </qresource>
+</RCC>
